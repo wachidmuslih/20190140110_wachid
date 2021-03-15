@@ -1,3 +1,3 @@
 <?php 
-echo("Sesuatu");
-include_once('Index.html');
+echo("Wachid");
+include_once('index.html');
